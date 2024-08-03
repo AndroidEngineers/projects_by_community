@@ -28,9 +28,9 @@ In this repository, you'll find an eclectic collection of projects created by ou
 
 ## Featured Projects
 
-| Project Name | Author | Description | Technologies Used | Repo Link |
-|--------------|--------|-------------|-------------------|-----------|
-| **Coming Soon** |  |  |  |  |
+| Project Name | Author | Description | Technologies Used | Repo Link | PlayStore Link |
+|--------------|--------|-------------|-------------------|-----------|----|
+| **Coming Soon** |  |  |  |  | |
 
 
 
