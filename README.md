@@ -30,7 +30,7 @@ In this repository, you'll find an eclectic collection of projects created by ou
 
 | Project Name | Author | Description | Technologies Used | Repo Link | PlayStore Link |
 |--------------|--------|-------------|-------------------|-----------|----|
-| **Coming Soon** |  |  |  |  | |
+| KeyPass | Yogesh Choudhary Paliyal | Open-source & offline password manager. Store, manage, take control securely. | Compose, Hilt, material 3, MVI (Redux), Room, Jetpack Data Store  | [Github](https://github.com/yogeshpaliyal/KeyPass) | [PlayStore](https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass) |
 
 
 
