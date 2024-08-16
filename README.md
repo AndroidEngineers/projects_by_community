@@ -28,10 +28,10 @@ In this repository, you'll find an eclectic collection of projects created by ou
 
 ## Featured Projects
 
-| Project Name | Author                   | Description                                                                                  | Technologies Used                                                                  | Repo Link | PlayStore Link                                                                                |
-|--------------|--------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------|
-| KeyPass      | Yogesh Choudhary Paliyal | Open Source Project & An Offline Password Manager. Store, manage, and take control securely. | Jetpack Compose, Hilt, Material 3, MVI (Redux), Room, Jetpack Data Store           | [GitHub](https://github.com/yogeshpaliyal/KeyPass) | [PlayStore](https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass)          |
-| Neptune      | Navneet Yadav            | Open Source Project & An Online Music Streaming App, just like spotify, plays music online.  | Jetpack Compose, Firebase, Material 3, MVVM, Shared Preference , Coroutines, Flows | [GitHub](https://github.com/navneet851/spotify-clone-jetpack-compose) |  |
+| Project Name | Author | Description | Technologies Used | Repo Link | PlayStore Link |
+|--------------|--------|-------------|-------------------|-----------|----|
+| KeyPass | Yogesh Choudhary Paliyal | Open Source Project & An Offline Password Manager. Store, manage, and take control securely. | Jetpack Compose, Hilt, Material 3, MVI (Redux), Room, Jetpack Data Store  | [GitHub](https://github.com/yogeshpaliyal/KeyPass) | [PlayStore](https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass) |
+| Neptune | Navneet Yadav | Open Source Project & An Online Music Streaming App, just like spotify, plays music online.  | Jetpack Compose, Firebase, Material 3, MVVM, Shared Preference , Coroutines, Flows | [GitHub](https://github.com/navneet851/spotify-clone-jetpack-compose) |
 
 
 ## How to Contribute
