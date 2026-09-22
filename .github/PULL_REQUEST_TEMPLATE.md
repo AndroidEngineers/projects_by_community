@@ -1,14 +1,24 @@
-# Pull Request Template
+## Project and author
 
-## Description
+- Project name:
+- Author / GitHub handle:
+- My contribution / permission to submit:
+- Source repository and license:
 
-Please include a summary of our Porject. Bestif you can add some Screenshots here as well.
+## Demo and setup
 
+- Demo or screenshots:
+- Setup instructions and supported environment:
+- Tested commit:
+- Commands / device checks performed:
+- Maturity and known limitations:
 
-## Screenshots:
+## Engineering lesson
 
-Please add screenshots of any visual changes made to the project (if applicable).
+Explain one decision, its tradeoff, and what you learned.
 
-## Additional Notes:
+## Checklist
 
-Add any other notes or comments here.
+- [ ] Added the project to the README table.
+- [ ] Included the evidence required by CONTRIBUTING.md.
+- [ ] Preserved attribution and checked for credentials or personal data.

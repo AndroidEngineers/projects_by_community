@@ -36,6 +36,9 @@ In this repository, you'll find an eclectic collection of projects created by ou
 
 ## How to Contribute
 
+Read the [submission requirements](CONTRIBUTING.md). Each new project must include an author, source repository, demo or screenshots, setup instructions, maturity status, and one engineering lesson learned. Existing listings retain their original credits; they have not been newly build-tested in this documentation pass.
+
+
 We welcome and encourage contributions from everyone. To add your project to this showcase, follow these steps:
 
 1. **Fork** this repository.
@@ -68,13 +71,8 @@ A huge thank you to all our contributors for their incredible work and dedicatio
 
 
 
-## Contact
+## Learn and connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandwana001)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anandwana001)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshay81844)
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=github&logoColor=white)](https://instagram.com/in/_akshay_nandwana)
-[![Topmate](https://img.shields.io/badge/Topmate-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://topmate.io/anandwana001)
+[Android Engineers Academy](https://www.androidengineers.in/roadmap?utm_source=github&utm_medium=repository&utm_campaign=projects_by_community) · [Official LinkedIn](https://www.linkedin.com/company/android-engineers/)
 
-
-
+Each linked project has its own license and setup requirements. The showcase's MIT license does not relicense those projects.
